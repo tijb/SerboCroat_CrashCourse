@@ -5,8 +5,8 @@ A Collection of language learning resources, tools, and data for Serbo-Croatian
 1. Conversation **first** learning.
   - [\[Free\] Johnny Harris - Fastest Way To Learn A Language](https://www.youtube.com/watch?v=3i1lNJPY-4Q)
     - Brief overview of the idea of conversation-first language learning.
-  - [\[Paid\] Bright Space Course](https://brighttrip.com/course/language/)
-    - Full course expanding on the ideas from Johnny's video.
+  - _[\[Paid\] Bright Space Course](https://brighttrip.com/course/language/)_
+    - **(Optional)** Full course expanding on the ideas from Johnny's video.
 2. _awful_ but conversational in 2 - 4 months
   - by focusing on the most common words immediately, communicating ideas early will be possible _(albeit with awful grammer)_
 3. _more to come_
