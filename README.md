@@ -1,15 +1,7 @@
 # Serbo/Croatian Crash Course
 A Collection of language learning resources, tools, and data for Serbo-Croatian
 
-### Goal
-1. Conversation **first** learning.
-  - [\[Free\] Johnny Harris - Fastest Way To Learn A Language](https://www.youtube.com/watch?v=3i1lNJPY-4Q)
-    - Brief overview of the idea of conversation-first language learning.
-  - _[\[Paid\] Bright Space Course](https://brighttrip.com/course/language/)_
-    - **(Optional)** Full course expanding on the ideas from Johnny's video.
-2. _awful_ but conversational in 2 - 4 months
-  - by focusing on the most common words immediately, communicating ideas early will be possible _(albeit with awful grammer)_
-3. _more to come_
+The Goal is conversation first learning. Ideally, communicating ideas in 2 - 4 months. By focusing on the most common words immediately, communicating ideas early will be possible _(albeit with awful grammer)_
 
 ### Methodology
  - Memorize _(SRS/Flash Cards/Whatever)_ the top ~1000 words / short phrases.
@@ -17,7 +9,11 @@ A Collection of language learning resources, tools, and data for Serbo-Croatian
  - Progress on grammer, reading, writing after the inital rough conversations are happening.
 
 ### Resources
- - The 1000 top SerboCroatian words, collected, and corrected by a native speaker.
+- [\[Free\] Johnny Harris - Fastest Way To Learn A Language](https://www.youtube.com/watch?v=3i1lNJPY-4Q)
+  - Brief overview of the idea of conversation-first language learning.
+- _[\[Paid\] Bright Space Course](https://brighttrip.com/course/language/)_
+  - **(Optional)** Full course expanding on the ideas from Johnny's video.
+- The 1000 top SerboCroatian words, collected, and corrected by a native speaker.
    - _(corrected up to line 102)_ [Top 1000 Words](top1000.csv)
    - _(unreviewed)_ [Top 100 Verbs](top100_verbs.csv)
    - _(unreviewed)_ [Top 100 Phrases](top100_phrases.csv)
