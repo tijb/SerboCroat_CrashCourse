@@ -18,7 +18,7 @@ A Collection of language learning resources, tools, and data for Serbo-Croatian
 
 ### Resources
  - The 1000 top SerboCroatian words, collected, and corrected by a native speaker.
-   - _link coming soon_
+   - _(corrected up to line 102)[top1000.csv](top1000.csv)
  - Some sort of scripting, links to SRS / Flash Card tools to automate creating Decks of words.
    - _coming soonish_
  - Places to find a native speaker to talk to.
