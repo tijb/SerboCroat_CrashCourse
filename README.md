@@ -18,7 +18,7 @@ The Goal is conversation first learning. Ideally, communicating ideas in 2 - 4 m
    - _(unreviewed)_ [Top 100 Verbs](top100_verbs.csv)
    - _(unreviewed)_ [Top 100 Phrases](top100_phrases.csv)
  - Some sort of scripting, links to SRS / Flash Card tools to automate creating Decks of words.
-   - for iPhone, try out [AnkiKun](https://apps.apple.com/us/app/ankikun-memorize-words/id1434399494) with the AnkiKun-iPhone.zip file in the releases tab!
+   - for iPhone, try out [AnkiKun](https://apps.apple.com/us/app/ankikun-memorize-words/id1434399494) with the [AnkiKun-iPhone.zip file in the releases tab](https://github.com/tijb/SerboCroat_CrashCourse/release)!
  - Places to find a native speaker to talk to.
    - _links go here_
    - _and here_
