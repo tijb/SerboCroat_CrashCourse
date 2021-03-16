@@ -25,15 +25,13 @@ The Goal is conversation first learning. Ideally, communicating ideas in 2 - 4 m
    - _or here_
 
 ### Generating Your Own CSVs!
-> This section is more technical. 
-If you don't need to make them yourself look at [the releases tab](https://github.com/tijb/SerboCroat_CrashCourse/releases) for a release you can use!
+> This section is more technical. If you don't need to make them yourself look at [the releases tab](https://github.com/tijb/SerboCroat_CrashCourse/releases) for a release you can use!
 
 **Prerequisites**
  - `python3` is used to format and create files
  - `make` is used as a task based builder.
 
-**Steps**
-Make an iPhone release for AnkiKun by:
+Create an iPhone, AnkiKun zip file by running:
 ```
 git clone https://github.com/tijb/SerboCroat_CrashCourse
 cd SerboCroat_CrashCourse
