@@ -16,7 +16,6 @@ The Goal is conversation first learning. Ideally, communicating ideas in 2 - 4 m
 - The 1000 top SerboCroatian words, collected, and corrected by a native speaker.
    - _(corrected up to line 102)_ [Top 1000 Words](top1000.csv)
    - _(unreviewed)_ [Top 100 Verbs](top100_verbs.csv)
-   - Imported into [cram.com | Top 100 Verbs](https://www.cram.com/flashcards/top-100-serbian-verbs-12037670)
    - _(unreviewed)_ [Top 100 Phrases](top100_phrases.csv)
  - Some sort of scripting, links to SRS / Flash Card tools to automate creating Decks of words.
    - _coming soonish_
