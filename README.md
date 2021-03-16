@@ -18,8 +18,24 @@ The Goal is conversation first learning. Ideally, communicating ideas in 2 - 4 m
    - _(unreviewed)_ [Top 100 Verbs](top100_verbs.csv)
    - _(unreviewed)_ [Top 100 Phrases](top100_phrases.csv)
  - Some sort of scripting, links to SRS / Flash Card tools to automate creating Decks of words.
-   - _coming soonish_
+   - for iPhone, try out [AnkiKun](https://apps.apple.com/us/app/ankikun-memorize-words/id1434399494) with the [AnkiKun-iPhone.zip file in the releases tab](https://github.com/tijb/SerboCroat_CrashCourse/releases)!
  - Places to find a native speaker to talk to.
    - _links go here_
    - _and here_
    - _or here_
+
+### Generating Your Own CSVs!
+> This section is more technical. If you don't need to make them yourself look at [the releases tab](https://github.com/tijb/SerboCroat_CrashCourse/releases) for a release you can use!
+
+**Prerequisites**
+ - `python3` is used to format and create files
+ - `make` is used as a task based builder.
+
+Create an iPhone, AnkiKun zip file by running:
+```
+git clone https://github.com/tijb/SerboCroat_CrashCourse
+cd SerboCroat_CrashCourse
+make zip_iphone
+```
+
+Android release will be coming when I get time to test on an Android phone.
