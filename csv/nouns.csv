@@ -1,96 +1,95 @@
-time,vreme
-year,godina
-people,ljudi
-way,put
-day,dan
-man,čovjek
-thing,stvar
-woman,ženska
-life,život
-child,dijete
-world,svijet
-school,škola
-state/condition,stanje
-family,familija
-student,učenik
-group,grupa
-country,država
-problem,problem
-hand,ruka
-part,dio
-place/space,mjesto
-case,kutija
-week,tjedan
-company,kompanija
-system,sistem
-program,program
-question,pitanje
-work,posao
-government,vlada
-number,broj
-night,noć
-point,točka
-home,kuća
-water,voda
-room,soba
-mother,majka
-area,oblast
-money,pare
-story,priča
-fact,fakt
-month/moon,mjesec
-lot,zemlja
-right (correct),upravo
-book,knjiga
-eye,oko
-word,riječ
-issue,izdanje
-side,strana
-kind,vrsta
-head,glava
-service,servis
-friend,prijatelju
-father,otac
-power,vlast
-hour/wristwatch,sat
-game,igra
-line,red
-end,kraj
-member,član
-law,zakon
-car,auto
-city,grad
-community,zajednica
-name,ime
-president,predsjednik
-team,tim
-minute,minuta
-idea,ideja
-kid,dijete
-body,tijelo
-information,informacija
-back,leđa
-parent,roditelj
-face,lice
-others,drugi
-level (floor),sprat
-office,kancelarija
-door,vrata
-health,zdravlje
-person,osoba
-art,umjetnost
-war,rat
-history,istorija
-party,zabava
-result,rezultat
-change,promjena
-morning,jutro
-reason,razlog
-research,istraživanje
-girl,djevojka
-guy,momak
-moment,trenutak
-air,zrak
-teacher,učitelj
-force,sila
-education,education
+time,време vreme
+year,година godina
+people,људи ljudi
+way,пут put
+day,дан dan
+man,човјек čovjek
+thing,ствар stvar
+woman,женска ženska
+life,живот život
+child,дијете dijete
+world,свијет svijet
+school,школа škola
+state/condition,стање stanje
+family,фамилија familija
+student,ученик učenik
+group,група grupa
+country,држава država
+problem,проблем problem
+hand,рука ruka
+part,дио dio
+place/space,мјесто mjesto
+box/pack,кутија kutija
+week,тједан tjedan
+company,компанија kompanija
+system,систем sistem
+program,програм program
+question,питање pitanje
+work,посао posao
+government,влада vlada
+number,број broj
+night,ноћ noć
+point,точка točka
+home,куча kuća
+water,вода voda
+room,соба soba
+mother,мајка majka
+area,област oblast
+money,паре pare
+story,прича priča
+fact,факт fakt
+month/moon,мјесец mjesec
+lot,земља zemlja
+correct,управо upravo
+book,књига knjiga
+eye,око oko
+word,ријеч riječ
+issue,издање izdanje
+side,страна strana
+kind,врста vrsta
+head,глава glava
+service,сервис servis
+friend,пријатељ prijatelj
+father,отац otac
+power,власт vlast
+hour/clock,сат sat
+game,игра igra
+line,ред red
+end,крај kraj
+member,члан član
+law,закон zakon
+car,ауто auto
+city,град grad
+community,заједница zajednica
+name,име ime
+president,предсједник predsjednik
+team,тим tim
+minute,минута minuta
+idea,идеја ideja
+body,тијело tijelo
+information,информација informacija
+back,леђа leđa
+parent,родитељ roditelj
+face,лице lice
+others,други drugi
+floor,спрат sprat
+office,канцеларија kancelarija
+door,врата vrata
+health,здравље zdravlje
+person,особа osoba
+art,уметност umetnost
+war,рат rat
+history,историја istorija
+party,забава zabava
+result,резултат rezultat
+change,промјена promjena
+morning,јутро jutro
+reason,разлог razlog
+research,истраживање istraživanje
+girl,дјевојка djevojka
+guy,момак momak
+moment,тренутак trenutak
+air,зрак zrak
+teacher,учитељ učitelj
+force,сила sila
+education,едуцатион education
