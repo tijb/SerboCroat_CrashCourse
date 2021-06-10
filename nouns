@@ -1,127 +1,1033 @@
-time	време vreme
-year	година godina
-people	људи ljudi
-way	пут put
-day	дан dan
-man	човјек čovjek
-thing	ствар stvar
-woman	женска ženska
-life	живот život
-child	дијете dijete
-world	свијет svijet
-school	школа škola
-state/condition	стање stanje
-family	фамилија familija
-student	ученик učenik
-group	група grupa
-country	држава država
-problem	проблем problem
-hand	рука ruka
-part	дио dio
-place/space	мјесто mjesto
-box/pack	кутија kutija
-week	тједан tjedan
-company	компанија kompanija
-system	систем sistem
-program	програм program
-question	питање pitanje
-work	посао posao
-government	влада vlada
-number	број broj
-night	ноћ noć
-point	точка točka
-home	куча kuća
-water	вода voda
-room	соба soba
-mother	мајка majka
-area	област oblast
-money	паре pare
-story	прича priča
-fact	факт fakt
-month/moon	мјесец mjesec
-lot	земља zemlja
-correct	управо upravo
-book	књига knjiga
-eye	око oko
-word	ријеч riječ
-issue	издање izdanje
-side	страна strana
-kind	врста vrsta
-head	глава glava
-service	сервис servis
-friend	пријатељ prijatelj
-father	отац otac
-power	власт vlast
-hour/clock	сат sat
-game	игра igra
-line	ред red
-end	крај kraj
-member	члан član
-law	закон zakon
-car	ауто auto
-city	град grad
-community	заједница zajednica
-name	име ime
-president	предсједник predsjednik
-team	тим tim
-minute	минута minuta
-idea	идеја ideja
-body	тијело tijelo
-information	информација informacija
-back	леђа leđa
-parent	родитељ roditelj
-face	лице lice
-others	други drugi
-floor	спрат sprat
-office	канцеларија kancelarija
-door	врата vrata
-health	здравље zdravlje
-person	особа osoba
-art	уметност umetnost
-war	рат rat
-history	историја istorija
-party	забава zabava
-result	резултат rezultat
-change	променити promeniti
-morning	јутро jutro
-reason	разлог razlog
-research	истраживање istraživanje
-girl	дјевојка djevojka
-guy	момак momak
-moment	тренутак trenutak
+a
+ability
+absence
+abuse
+access
+accident
+accommodation
+account
+acid
+act
+action
+activity
+addition
+address
+administration
+adult
+advance
+advantage
+advice
+afternoon
+age
+agency
+agent
+agreement
+agriculture
+aid
+aim
 air	зрак zrak
-teacher	учитељ učitelj
-force	сила sila
-education	едуцатион education
-grass	trava
-shoes	patike
-fence	ograda
-nose	nos
-sun	sunse
-tree	drvo
-truck	kamijon
-stars	zvezde
-trash	smeče
-rock	kamen
-cement	beton
-window	prozor
-post/pole	stupac
-physics	fizika
-shirt	majca
-pants	patalone
-juice	sok
-store	tregovina
-cheese	sir
-onion	luk
-potato	krompir
-tomato	paradise
-meat	meso
-bread	kruv
-carrot	murkva
+aircraft
+alan
+alternative
+amount
+analysis
+animal
+answer
+appeal
+appearance
+application
+appointment
+approach
+approval
+area	област oblast
+argument
+arm
+army
+arrival
+art	уметност umetnost
+article
+artist
+aspect
+assembly
+assessment
+assistance
+association
+atmosphere
+attack
+attempt
+attention
+attitude
+audience
+author
+authority
+autumn
+average
+award
+awareness
+baby
+back	леђа leđa
+background
+bag
+balance
+ball
+band
+bank
+bar
+base
+basis
+bath
+battle
+beach
 beans	pasulj
-peas	grašak
-lamb	janjetina
+beauty
+bed
+bedroom
+behalf
+behaviour
+belief
+benefit
+bill
+bird
+birth
+bishop
+block
+blood
+board
+boat
+bob
+body	тијело tijelo
+book	књига knjiga
+border
+bottle
+bottom
+box
+box/pack	кутија kutija
+boy
+brain
+branch
+bread	kruv
+break
+breakfast
+breath
+bridge
+brother
+brown
+budget
+bus
+bush
+business
 cabbage	kupus
-pepper	paprika
-eggs	jaja
+cabinet
+call
+campaign
+cancer
+candidate
+capacity
+capital
+captain
+car	ауто auto
+card
+care
+career
+carrot	murkva
+case
+cash
+castle
+cat
+cause
+cell
+cement	beton
+centre
+century
+chain
+chair
+chairman
+challenge
+championship
+chance
+chancellor
+change	променити promeniti
+channel
+chapter
+character
+charge
+charity
+cheese	sir
+chest
 chicken	kokoš
+chief
+child	дијете dijete
+china
+choice
+christ
+church
+city	град grad
+claim
+class
+clause
+client
+club
+co
+co-operation
+coal
+coast
+code
+coffee
+collection
+college
+colour
+combination
+command
+commission
+commitment
+committee
+communication
+community	заједница zajednica
+company	компанија kompanija
+comparison
+competition
+computer
+concentration
+concept
+concern
+conclusion
+condition
+conference
+confidence
+conflict
+congress
+connection
+consequence
+consideration
+constitution
+construction
+consumer
+contact
+content
+context
+contract
+contrast
+contribution
+control
+convention
+conversation
+copy
+core
+corner
+corporation
+correct	управо upravo
+cost
+council
+country	држава država
+countryside
+county
+couple
+course
+court
+cover
+creation
+credit
+crime
+crisis
+criticism
+cross
+crowd
+crown
+culture
+cup
+currency
+curriculum
+customer
+dad
+damage
+danger
+date
+daughter
+day	дан dan
+deal
+death
+debate
+debt
+decade
+decision
+decline
+defence
+definition
+degree
+delivery
+demand
+democracy
+department
+deputy
+description
+design
+desire
+desk
+detail
+development
+diet
+difference
+difficulty
+dinner
+direction
+director
+discipline
+discussion
+disease
+display
+distance
+distinction
+distribution
+district
+division
+doctor
+document
+dog
+door	врата vrata
+doubt
+drama
+dream
+dress
+drink
+drive
+driver
+drug
+duty
+earth
+east
+economy
+edge
+editor
+education	едуцатион education
+effect
+efficiency
+effort
+eggs	jaja
+election
+electricity
+element
+emergency
+emphasis
+empire
+employment
+end	крај kraj
+energy
+engine
+english
+enterprise
+entry
+environment
+equipment
+error
+establishment
+estate
+event
+evidence
+examination
+example
+exchange
+executive
+exercise
+exhibition
+existence
+expansion
+expenditure
+experience
+expert
+explanation
+expression
+extension
+extent
+eye	око oko
+face	лице lice
+fact	факт fakt
+factor
+factory
+failure
+faith
+fall
+family	фамилија familija
+farm
+fashion
+father	отац otac
+favour
+fear
+feature
+fence	ograda
+field
+fig.
+figure
+file
+film
+finance
+fire
+firm
+fish
+flat
+flight
+floor	спрат sprat
+flow
+focus
+food
+foot
+football
+force	сила sila
+forest
+form
+formation
+foundation
+framework
+frank
+freedom
+friend	пријатељ prijatelj
+front
+fruit
+fuel
+fun
+function
+fund
+furniture
+future
+gallery
+game	игра igra
+gap
+garden
+gas
+gate
+general
+generation
+gentleman
+girl	дјевојка djevojka
+glass
+goal
+god
+gold
+golf
+government	влада vlada
+graham
+grant
+grass	trava
+green
+group	група grupa
+growth
+guide
+gun
+guy	момак momak
+hair
+half
+hall
+hand	рука ruka
+head	глава glava
+health	здравље zdravlje
+heart
+heat
+height
+hell
+help
+henry
+hill
+history	историја istorija
+hole
+holiday
+home	куча kuća
+hope
+horse
+hospital
+hotel
+hour
+hour/clock	сат sat
+house
+household
+husband
+ice
+idea	идеја ideja
+identity
+image
+impact
+importance
+impression
+improvement
+incident
+income
+increase
+independence
+index
+individual
+industry
+inflation
+influence
+information	информација informacija
+initiative
+injury
+inquiry
+instance
+institute
+institution
+insurance
+intelligence
+intention
+interest
+interpretation
+interview
+introduction
+investigation
+investment
+involvement
+iron
+island
+issue	издање izdanje
+item
+jack
+jane
+japan
+job
+joe
+john
+jones
+journey
+judge
+juice	sok
+justice
+key
+kind	врста vrsta
+king
+kingdom
+kitchen
+knowledge
+labour
+lack
+lady
+lake
+lamb	janjetina
+land
+lane
+language
+law	закон zakon
+lead
+leader
+leadership
+league
+lee
+leg
+legislation
+length
+letter
+level
+lewis
+liability
+library
+licence
+life	живот život
+lifespan
+light
+limit
+line	ред red
+link
+list
+literature
+loan
+location
+look
+lord
+loss
+lot	земља zemlja
+love
+lunch
+machine
+magazine
+maintenance
+major
+majority
+man	човјек čovjek
+management
+manager
+manchester
+manner
+map
+march
+mark
+market
+marriage
+martin
+mary
+mass
+master
+match
+material
+may
+meal
+measure
+meat	meso
+member	члан član
+membership
+memory
+message
+metal
+method
+middle
+mike
+milk
+mill
+mind
+minister
+ministry
+minority
+minute	минута minuta
+mirror
+miss
+mistake
+model
+moment	тренутак trenutak
+money	паре pare
+month
+month/moon	мјесец mjesec
+morning	јутро jutro
+mother	мајка majka
+motion
+motor
+mountain
+mouth
+move
+movement
+mum
+murder
+museum
+music
+name	име ime
+nation
+nature
+neck
+need
+network
+new
+news
+newspaper
+night	ноћ noć
+no
+noise
+north
+northern
+nose	nos
+note
+notice
+notion
+number	број broj
+object
+occasion
+offence
+offer
+office	канцеларија kancelarija
+officer
+oil
+onion	luk
+operation
+opinion
+opportunity
+opposition
+option
+order
+organisation
+organization
+other
+others	други drugi
+outcome
+output
+owner
+oxford
+package
+page
+pain
+pair
+palace
+panel
+pants	patalone
+paper
+parent	родитељ roditelj
+parish
+park
+parliament
+part	дио dio
+partner
+partnership
+party	забава zabava
+passage
+past
+path
+patient
+pattern
+paul
+pay
+payment
+peace
+peas	grašak
+pension
+people	људи ljudi
+pepper	paprika
+performance
+period
+person	особа osoba
+peter
+phase
+philosophy
+phone
+physics	fizika
+picture
+piece
+place
+place/space	мјесто mjesto
+plan
+plane
+plant
+plastic
+plate
+play
+player
+pleasure
+point	точка točka
+police
+policy
+pollution
+pool
+population
+port
+position
+possibility
+post
+post/pole	stupac
+potato	krompir
+potential
+pound
+power	власт vlast
+pp.
+practice
+presence
+present
+president	предсједник predsjednik
+press
+pressure
+price
+prince
+principle
+priority
+prison
+problem	проблем problem
+procedure
+process
+product
+production
+professor
+profit
+program	програм program
+programme
+progress
+project
+property
+proportion
+proposal
+protection
+provision
+pub
+public
+publication
+purpose
+quality
+quarter
+queen
+question	питање pitanje
+race
+radio
+rail
+railway
+rain
+range
+rate
+reaction
+reader
+reality
+reason	разлог razlog
+recession
+recognition
+record
+recovery
+reduction
+ref
+reference
+reform
+regime
+region
+relation
+relationship
+release
+relief
+religion
+report
+representation
+republic
+reputation
+request
+research	истраживање istraživanje
+resistance
+resolution
+respect
+response
+responsibility
+rest
+restaurant
+result	резултат rezultat
+retirement
+return
+revenue
+review
+revolution
+right
+ring
+rise
+risk
+river
+road
+rock	kamen
+role
+roof
+room	соба soba
+round
+route
+row
+rugby
+rule
+run
+safety
+sale
+sample
+scale
+scene
+scheme
+school	школа škola
+science
+scope
+screen
+sea
+search
+season
+seat
+second
+secretary
+section
+sector
+security
+selection
+self
+sense
+sentence
+sequence
+series
+service	сервис servis
+session
+set
+settlement
+sex
+shape
+share
+sheet
+ship
+shirt	majca
+shock
+shoes	patike
+shop
+shoulder
+show
+side	страна strana
+sight
+sign
+significance
+silence
+silver
+simon
+sir
+sister
+site
+situation
+size
+skill
+skin
+sky
+sleep
+smile
+smith
+snow
+society
+software
+soil
+solution
+son
+song
+sort
+sound
+source
+south
+space
+speaker
+specialist
+species
+speech
+speed
+spirit
+spokesman
+sport
+spot
+spring
+square
+st
+staff
+stage
+standard
+star
+stars	zvezde
+start
+state
+state/condition	стање stanje
+statement
+station
+status
+steel
+step
+stock
+stone
+store	tregovina
+story	прича priča
+strategy
+street
+strength
+stress
+strike
+structure
+struggle
+student	ученик učenik
+study
+stuff
+style
+subject
+success
+sugar
+sum
+summer
+sun	sunse
+supply
+support
+surface
+surprise
+survey
+system	систем sistem
+table
+talk
+tape
+target
+task
+tax
+taylor
+tea
+teacher	учитељ učitelj
+team	тим tim
+technique
+technology
+telephone
+television
+temperature
+term
+test
+text
+thatcher
+theatre
+theme
+theory
+thing	ствар stvar
+threat
+time	време vreme
+title
+tom
+tomato	paradise
+tone
+tony
+top
+total
+touch
+tour
+town
+track
+trade
+tradition
+traffic
+train
+transfer
+transport
+trash	smeče
+travel
+treatment
+treaty
+tree	drvo
+trial
+trip
+trouble
+truck	kamijon
+trust
+truth
+turn
+tv
+type
+un
+uncle
+unemployment
+union
+unit
+university
+us
+use
+user
+valley
+value
+van
+variety
+vehicle
+version
+victim
+victory
+video
+view
+village
+violence
+vision
+visit
+voice
+volume
+vote
+walk
+wall
+war	рат rat
+waste
+water	вода voda
+way	пут put
+wealth
+weather
+week	тједан tjedan
+weekend
+weight
+welfare
+west
+while
+white
+whole
+wife
+will
+wind
+window	prozor
+wine
+winter
+woman	женска ženska
+wood
+word	ријеч riječ
+work	посао posao
+worker
+world	свијет svijet
+writer
+year	година godina
+youth
+﻿time
